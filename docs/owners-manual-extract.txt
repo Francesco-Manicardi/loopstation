@@ -1,0 +1,1597 @@
+=== PAGE 1 ===
+Owner’s Manual
+USING THE UNIT SAFELY  . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+IMPORTANT NOTES  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2
+How the RC-505mkll Is Organized .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 3
+Getting Ready  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+Top Panel  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  4
+Rear Panel (Connecting Your Equipment)  . . . . . . . . . . . . . . . .  7
+Turning the Power On/Off  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+Phantom Power Settings  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7
+Switching Between Play Screens  . . . . . . . . . . . . . . . . . . . . . . . .  8
+Adjusting the Input/Output Level  . . . . . . . . . . . . . . . . . . . . . . .  8
+Creating a Loop Phrase   . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  9
+Recording on a Single Track .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 9
+Recording on Multiple Tracks  . . . . . . . . . . . . . . . . . . . . . . . . . . .  10
+Recording with Input FX  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+Record While Listening to the Rhythm Sound   . . . . . . . . . . . .  11
+Sounding a Rhythm   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+Setting the Tempo of Rhythm  . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11
+Saving a Memory  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+Saving a Memory (WRITE)   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12
+Erasing Data from a Memory (CLEAR)  . . . . . . . . . . . . . . . . . . . .  12
+Editing a Memory   . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13
+Editing the Settings of a Memory   . . . . . . . . . . . . . . . . . . . . . . .  13
+Editing the Track Settings  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14
+Editing the Rhythm Settings  . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15
+Changing How the Rhythm Starts and Stops  . . . . . . . . . . . . . . . . .  15
+Editing the Input FX/Track FX Settings  . . . . . . . . . . . . . . . . . . .  16
+System Settings (MENU)   . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17
+Connecting to a Computer via USB   . . . . . . . . . . . . . . . . .  19
+Backing Up or Recovering Data  . . . . . . . . . . . . . . . . . . . . . . . . .  19
+Controlling Devices via MIDI  . . . . . . . . . . . . . . . . . . . . . . . . . . .  20
+MIDI Settings  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  20
+Controlling an External MIDI Device from the RC-505mkll  . . . . . .  20
+Controlling the RC-505mkll from an External MIDI Device  . . . . . .  21
+Connecting Two RC-505mkll Units .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  . 21
+Appendix  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22
+Troubleshooting  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22
+Error Message List  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  23
+Restoring the Factory Default Settings (Factory Reset)   . . . .  24
+Main Specifications  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25
+ Owner’s Manual (this document)
+Read this first. It explains the basic things you need to know in order to 
+use the RC-505mkll.
+ Parameter Guide (download from the Web)
+This explains all of the parameters of the RC-505mkll.
+Before using this unit, carefully read “USING THE UNIT SAFELY” and “IMPORTANT NOTES” (the leaflet “USING THE UNIT SAFELY” and the 
+Owner’s Manual (p. 2)). After reading, keep the document(s) where it will be available for immediate reference.
+© 2021 Roland Corporation
+To obtain the Parameter Guide
+1 . Enter the following URL on your computer.
+https://www .boss .info/manuals/
+2 . Choose “RC-505mkll” as the product name.
+
+=== PAGE 2 ===
+2
+IMPORTANT NOTES
+Power Supply
+• Place the AC adaptor so the side with the indicator faces upwards. The indicator will 
+light when you plug the AC adaptor into an AC outlet.
+• Depending on the material and temperature of the surface on which you place the 
+unit, its rubber feet may discolor or mar the surface. 
+Repairs and Data
+• Before sending the unit away for repairs, be sure to make a backup of the data 
+stored within it; or you may prefer to write down the needed information. Although 
+we will do our utmost to preserve the data stored in your unit when we carry out 
+repairs, in some cases, such as when the memory section is physically damaged, 
+restoration of the stored content may be impossible. Roland assumes no liability 
+concerning the restoration of any stored content that has been lost.
+Additional Precautions
+• Any data stored within the unit can be lost as the result of equipment failure, 
+incorrect operation, etc. To protect yourself against the irretrievable loss of data, try 
+to make a habit of creating regular backups of the data you’ve stored in the unit.
+• Roland assumes no liability concerning the restoration of any stored content that 
+has been lost.
+• Never strike or apply strong pressure to the display.
+• When disposing of the packing carton or cushioning material in which this unit was 
+packed, you must observe the waste disposal regulations that apply to your locality.
+• Use only the specified expression pedal (FV-500H, FV-500L, EV-30, and Roland 
+EV-5; sold separately). By connecting any other expression pedals, you risk causing 
+malfunction and/or damage to the unit.
+• Do not use connection cables that contain a built-in resistor.
+Intellectual Property Right
+• It is forbidden by law to make an audio recording, video recording, copy or revision 
+of a third party’s copyrighted work (musical work, video work, broadcast, live 
+performance, or other work), whether in whole or in part, and distribute, sell, lease, 
+perform or broadcast it without the permission of the copyright owner.
+• Do not use this product for purposes that could infringe on a copyright held 
+by a third party. We assume no responsibility whatsoever with regard to any 
+infringements of third-party copyrights arising through your use of this product.
+• The copyright of content in this product (the sound waveform data, style data, 
+accompaniment patterns, phrase data, audio loops and image data) is reserved by 
+Roland Corporation.
+• Purchasers of this product are permitted to utilize said content (except song data 
+such as Demo Songs) for the creating, performing, recording and distributing 
+original musical works.
+• Purchasers of this product are NOT permitted to extract said content in original or 
+modified form, for the purpose of distributing recorded medium of said content or 
+making them available on a computer network.
+• This product contains eParts integrated software platform of eSOL Co., Ltd. eParts is 
+a trademark of eSOL Co., Ltd. in Japan.
+• This Product uses the Source Code of μT-Kernel under T-License 2.0 granted by the 
+T-Engine Forum (www.tron.org).
+• This product includes third party open source software.
+Copyright © 2009-2019 ARM Limited. All rights reserved.
+Licensed under the Apache License, Version 2.0 (the “License”);
+You may obtain a copy of the License at
+http://www.apache.org/licenses/LICENSE-2.0
+Copyright © 2016, Freescale Semiconductor, Inc.
+Copyright 2016-2019 NXP . All rights reserved.
+Licensed under the BSD-3-Clause;
+You may obtain a copy of the License at
+https://opensource.org/licenses/BSD-3-Clause
+Copyright © 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+Licensed under the MIT license
+https://opensource.org/licenses/mit-license.php
+• Roland, BOSS, and LOOP STATION are either registered trademarks or trademarks of 
+Roland Corporation in the United States and/or other countries.
+• Company names and product names appearing in this document are registered 
+trademarks or trademarks of their respective owners.
+ WARNING
+Concerning the Auto Off function
+The power to this unit will be turned off 
+automatically after a predetermined amount 
+of time has passed since it was last used for 
+playing music, or its buttons or controls were 
+operated (AUTO OFF function). If you do not want the 
+power to be turned off automatically, disengage the 
+AUTO OFF function (p. 18).
+ WARNING
+Use only the supplied AC adaptor and the correct 
+voltage
+Be sure to use only the AC adaptor supplied 
+with the unit. Also, make sure the line voltage 
+at the installation matches the input voltage 
+specified on the AC adaptor’s body. Other AC 
+adaptors may use a different polarity, or be designed 
+for a different voltage, so their use could result in 
+damage, malfunction, or electric shock.
+Use only the supplied power cord
+Use only the attached power cord. Also, the 
+supplied power cord must not be used with 
+any other device.
+ CAUTION
+Handle the ground terminal carefully
+If you remove the screw from the ground 
+terminal, be sure to replace it; don’t leave 
+it lying around where it could accidentally 
+be swallowed by small children. When 
+refastening the screw, make that it is firmly fastened, 
+so it won’t come loose.
+Precautions concerning use of phantom power 
+supply
+Always turn the phantom power off when 
+connecting any device other than condenser 
+microphones that require phantom power. 
+You risk causing damage if you mistakenly 
+supply phantom power to dynamic microphones, 
+audio playback devices, or other devices that don’t 
+require such power. Be sure to check the specifications 
+of any microphone you intend to use by referring 
+to the manual that came with it. (This instrument’s 
+phantom power: 48 V DC, 10 mA Max)
+USING THE UNIT SAFELY
+=== PAGE 3 ===
+3
+How the RC-505mkll Is Organized
+Track
+Tracks are used for recording and playing back audio from a 
+microphone or a musical instrument.
+You can combine tracks 1–5 when using this unit.
+Input FX, Track FX
+Effects that are applied to the input audio are called “input FX, ” 
+and effects that are applied to the tracks are called “track FX. ”
+You can register 16 input/track FX (4 banks x 4 types) to the 
+buttons and use them.
+Use the [INPUT FX]/[TRACK FX] knobs to control the parameters 
+specified for each effect in real time.
+Rhythm
+In addition to playing back tracks 1–5, you can also play rhythms 
+with this unit.
+You can record while listening to a rhythm at the tempo you 
+specify.
+Memory
+The settings for tracks 1–5 together with the input FX/track FX and 
+rhythm are collectively called a “memory. ”
+You can store up to 99 memories with this unit.
+System settings
+Settings that are common to the RC-505mkll overall such as the 
+display contrast, USB and MIDI settings are called “system settings. ”
+Memory 99
+Memory 01
+Rhythm
+System settings
+Track 1
+Track 2
+Track 3
+Track 4
+Track 5
+Input FX
+FX banks A–D
+FX
+Track FX
+FX banks A–D
+FX
+“Recording” versus “Overdubbing”
+In this manual, we refer to the act of recording to an empty track for the first time as “recording. ” Any subsequent recordings that are made, 
+which are added on top of the existing recording, we refer to as “overdubbning. ”
+
+=== PAGE 4 ===
+4
+Getting Ready
+1  INPUT FX
+[INPUT FX] knob
+This knob controls the input FX parameters.
+The parameters available for control depend on the type of effect 
+selected.
+[A]–[D] buttons
+These buttons turn the effects on/off that are set for each button.
+Lit red Effect: on
+Lit pink Indicates the effect you can currently operate/edit (effect: on).
+Unlit Effect: off
+When these control the FX bank switching function, the buttons 
+switch between FX banks A–D.
+[EDIT] button
+Press Displays the edit screen for the currently selected 
+effect.
+Hold this button down, and 
+press the [A]–[D] buttons
+Displays the edit screen for the effect that is set 
+for the button you press ([A]–[D]).
+Press and hold
+The [A]–[D] buttons now switch between FX 
+banks.
+The button ([A]–[D]) for the currently selected FX 
+bank lights up blue.
+2  
+[ALL START/STOP] button
+This makes all tracks start (play back) at the same time.
+If you press this button when the tracks are currently playing back 
+or recording, all tracks stop.
+MEMO
+You can set which tracks to start at the same time for each 
+memory.
+[UNDO/REDO] button
+Turns the undo/redo function on and off.
+When this is on (the button is lit), you can use the buttons for 
+tracks 1–5 for undo and redo.
+ & “MARK BACK function” (p. 5)
+3  
+[MENU] button
+This button gives you access to the overall system settings and 
+USB/MIDI settings of the RC-505mkll.
+[LOOP] button
+Press this button to edit a memory.
+Use this to configure the settings for tracks 1–5, settings related 
+to loop playback/recording and so on, input FX/track FX settings, 
+rhythm settings and the memory name.
+Display
+Shows various information of the RC-505mkll.
+[EXIT] button
+Press to return to the previous screen.
+[ENTER] button
+Press to confirm an operation.
+ 5 If you press the [ENTER] button while the play screen is 
+shown, the screen switches to the MIXER screen (p. 8).
+ 5 By pressing the [EXIT] button and [ENTER] button 
+simultaneously, you can save a memory (write) or erase 
+(clear) memory data.
+[K] [J] buttons
+Use these buttons to move the cursor and switch between pages.
+If you press these buttons while the play screen is shown, you can 
+switch between variations of the play screen.
+[1]–[4] knobs
+Use these knobs to set the parameter 
+values shown in the screen.
+ 5 To change a value in larger steps, turn a 
+knob while pressing it.
+ 5 For some parameters, you must press the knob to edit the 
+value.
+[OUTPUT LEVEL] knob
+Adjusts the volume of the RC-505mkll.
+[1] [2] [3] [4]
+Top Panel
+1  
+4  5  
+6  
+7  
+2  
+3  
+=== PAGE 5 ===
+5
+Getting Ready
+4  
+[TAP TEMPO] button
+Set the tempo by pressing this button at the desired interval 
+(tap tempo). When doing this, the tempo is shown on the screen.
+Long-press the button to return to the previous tempo.
+5  RHYTHM
+RHYTHM [EDIT] button
+Press this to edit the rhythm settings.
+RHYTHM [START/STOP] button
+The rhythm switches between start/stop each time you press this 
+button.
+6  TRACK FX
+[TRACK FX] knob
+This knob controls the track FX parameters.
+The parameters available for control depend on the type of effect 
+selected.
+[A]–[D] buttons
+These buttons turn the effects on/off that are set for each button.
+Lit red Effect: on
+Lit pink Indicates the effect you can currently operate/edit (effect: on).
+Unlit Effect: off
+When these control the FX bank switching function, the buttons 
+switch between FX banks A–D.
+[EDIT] button
+Press Displays the edit screen for the currently selected 
+effect.
+Hold this button down, and 
+press the [A]–[D] buttons
+Displays the edit screen for the effect that is set 
+for the button you press ([A]–[D]).
+Press and hold
+The [A]–[D] buttons now switch between FX 
+banks.
+The button ([A]–[D]) for the currently selected FX 
+bank lights up blue.
+7  TRACK 1–5
+[FX] buttons
+These buttons select whether to apply effects (input FX/track FX) 
+for each track or not (effects are applied when the buttons are lit, 
+and not applied when unlit).
+[TRACK] button
+Press these buttons to configure a track’s settings.
+These also indicate each track’s status.
+Lit Phrase exists
+Unlit No phrase
+MEMO
+The track that is currently selected (currently the target of 
+operations) is called the “current track. ”
+[q] button
+Press to stop recording, playback, and overdubbing.
+If you long-press the button (two seconds or longer), the track is 
+cleared.
+[J/t] button
+Switches between recording, playback, and overdubbing.
+For an empty phrase:
+Recording0Playback0Overdubbing
+For a phrase that contains data:
+Playback0Overdubbing
+During recording/playback/overdubbing, the color of the button 
+changes according to the status.
+Lit red Recording
+Lit green Playing
+Lit yellow Overdubbing
+Unlit Stopping
+Loop indicators
+Indicates the track’s status, loop position and playback level.
+Track sliders
+These adjust the volume on each track.
+When the [UNDO/REDO] button is lit
+The functions of the buttons from the [FX] button to the [J/t] 
+button change as shown below.
+Button Function Explanation
+[FX] MARK CLEAR Deletes a mark that has been set.
+[TRACK] MARK SET Sets a mark for an overdubbed phrase.
+[q] MARK BACK
+Switches the undo/redo target to the phrase 
+for which a mark has been set.
+If a mark has not been set, the track switches to 
+the post-recording state.
+[J/t] UNDO/REDO Undoes or redoes the recording or overdub 
+you just made.
+Top Panel
+MARK BACK function
+This function lets you undo or redo a certain phrase you 
+recorded as an overdub.
+When you use this to memorize (mark) a phrase beforehand 
+that you recorded as an overdub, you can restore a marked 
+phrase to a previously overdubbed state, correct what you 
+played by playing it again or undo/redo the marked phrase 
+to add emphasis to what you played, even after overdubbing 
+several times.
+
+=== PAGE 6 ===
+6
+Getting Ready
+8  
+DC IN jack
+Connect the included AC adaptor to this jack.
+* Use only the specified AC adaptor (PSB-1U), connected to an AC 
+outlet of the correct voltage.
+* Route the cord of the AC adaptor through 
+the grooves on the bottom of the unit as 
+shown in the illustration, to keep it in place.
+* When turning the unit over, be careful so 
+as to protect the buttons and knobs from 
+damage. Also, handle the unit carefully; do not drop it.
+[POWER] switch
+Turns the power on/off.
+USB port
+Connect your computer using a commercially available USB cable 
+that supports USB 2.0.
+You can connect your computer here and use it to back up or 
+recover data.
+You can also use USB audio to play the sound from your computer 
+through this unit, and use USB MIDI to synchronize the tempo of 
+this unit with the DAW software on your computer.
+9  MIDI
+MIDI OUT, MIDI IN connectors
+Connect an external MIDI device here.
+This lets you control an external MIDI device from this unit via 
+MIDI.
+10  CTL/EXP
+CTL 1, 2/EXP 1 jack and CTL 3, 4/EXP 2 jack
+You can connect an expression pedal or footswitches 
+(sold separately) to these jacks, for controlling a variety of 
+functions.
+* Use only the specified expression pedal (FV-500H, FV-500L, EV-
+30, and Roland EV-5; sold separately). By connecting any other 
+expression pedals, you risk causing malfunction and/or damage 
+to the unit.
+11  OUTPUT
+MAIN jacks (L/MONO, R)
+SUB 1, 2 jacks (L/MONO, R)
+Connect these jacks to your amp, monitor speakers or mixer.
+MEMO
+You can set the MAIN/SUB jacks as parallel output jacks 
+(mono output x 6) that individually output the sounds from each 
+track.
+ & “Parameter Guide” (PDF)
+PHONES jack
+Connect your headphones here.
+MEMO
+You can configure this unit to let you listen to only the audio you 
+specify in headphones.
+ & “Parameter Guide” (PDF)
+12  INPUT
+INST 1, 2 jacks (L/MONO, R)
+Connect your guitar/bass, effect units, keyboards and other 
+instruments to these jacks.
+MIC 1, 2 connectors
+Connect your microphone(s) here.
+* If you’re using a condenser mic that requires phantom power, turn 
+on this unit’s phantom power (p. 7).
+Rear Panel (Connecting Your Equipment)
+To AC outlet
+Ground terminal
+Connect this to an external earth 
+or ground.
+Connect this if necessary.
+8  9  10  11  12  Pin assignment
+MIC 1, 2 connectors
+1: GND2: HOT
+3: COLD
+To prevent malfunction and equipment failure, always turn down the volume, and turn off all the units before making any connections.
+=== PAGE 7 ===
+7
+Getting Ready
+Turning the Power On/Off
+Before turning the unit on/off, always be sure to turn the volume 
+down. Even with the volume turned down, you might hear some 
+sound when switching the unit on/off. However, this is normal and 
+does not indicate a malfunction.
+Turning the Power On
+Turn on the power in the following order: this unit ([POWER] 
+switch: ON) 0 connected devices 0 amplifier.
+Turning the Power Off
+Turn off the power in the following order: amplifier 0 connected 
+devices 0 this unit ([POWER] switch: OFF).
+The power to this unit will be turned off automatically after a 
+predetermined amount of time has passed since it was last used for 
+playing music, or its buttons or controls were operated (AUTO OFF 
+function).
+If you do not want the power to be turned off automatically, 
+disengage the AUTO OFF function (p. 18).
+ 5 Unsaved data is lost when the power turns off. Before turning 
+the power off, save the data that you want to keep (p. 12).
+ 5 To restore power, turn the power on again.
+Phantom Power Settings
+If you’re using a condenser mic that requires phantom power, use 
+the settings below to turn on this unit’s phantom power.
+1 . Press the [MENU] button.
+2 . Press the [1] (INPUT) knob.
+3 . Press the [1] (SETUP) knob.
+4 . Turn the [1] (MIC1)/[2] (MIC2) knobs to set PHANTOM 
+to “ON. ”
+5 . Press the [EXIT] button to return to the play screen 
+(p. 8).
+NOTE
+Always turn the phantom power off when connecting any device 
+other than condenser microphones that require phantom power.
+Rear Panel (Connecting Your Equipment)
+Connecting footswitches
+Connect one or more footswitches and set their mode/polarity switches by referring to the illustrations below.
+FS-6 FS-7
+CTL 2
+FS-5U x 1
+FS-5U
+FS-6
+Mode/Polarity switch
+FS-7
+1/4” phone type
+1/4” phone type
+Stereo 1/4” phone type
+Stereo 1/4” phone type
+Stereo 1/4” phone type
+Stereo 1/4” phone type
+CTL 1CTL 2 CTL 1CTL 1
+RINGTIP
+Stereo 1/4” phone type
+1/4” phone type x 2
+CTL 1 CTL 2
+FS-5U x 2
+
+=== PAGE 8 ===
+8
+Getting Ready
+(1) MEMORY NUMBER
+(2) TRACK STATUS
+Loop track status is shown with an icon
+Icon Explanation
+Recording, playing back, overdubbing
+Stopped (phrase exists)
+No phrase
+Current track
+(3) LOOP TRACKS
+Displays the track status + progress during playback
+(4) LOOP STATUS
+Indicates the status of the tracks
+(5) LOOP LEVEL
+Volume of each track is shown by the level meters
+(6) INPUT FX
+Indicates the input FX status
+A B C D
+Off
+On
+(7) TRACK FX
+Indicates the track FX status
+* You can change which play screen is 
+shown on startup.
+ & “Parameter Guide” (PDF)
+Switching Between Play Screens
+The screen that appears after you turn on the power is called the “play screen. ”
+Icon Explanation
+Tempo
+Phantom power for MIC 1, 2 connectors is on (off when not displayed)
+Knob lock function is on (off when not displayed)
+Memory name
+[1] [2] [3] [4]
+Parameters to set using the [1]–[4] knobs
+Memory number
+Press the [K] or [J] button while the play screen is shown to switch between variations of the play screen.
+Adjusting the Input/Output Level
+Press the [ENTER] button while the play screen is shown to display the MIXER screen, where you can check the input/output levels for each 
+jack and connector.
+Use the [K] [J] buttons to switch between pages, and turn the [1]–[4] knobs to adjust the respective input/output levels.
+[J]
+[K]
+[J]
+[K]
+Mute: On
+ Scale
+Peak indicator
+Switches the page
+ 5 Adjust the levels so that the peak indicator on the level meter matches the scale shown in the illustration.
+ 5 For the inputs, push the [1]–[4] knobs to mute the sound.
+ 5 Use the “MASTER OUT” to adjust the levels of the MAIN OUTPUT, SUB 1 OUTPUT and SUB 2 OUTPUT. The [OUTPUT LEVEL] knob is 
+configured to adjust the levels as well by factory default.
+The jacks and connectors shown in the MIXER screen may change, depending on the stereo link settings.
+Stereo link Explanation
+ON The MIC 1, 2 and L/R channels are shown as a single connector.
+OFF The MIC 1, 2 and L/R channels are shown separately.
+* For details on stereo link, refer to the “Parameter Guide” (PDF).
+=== PAGE 9 ===
+9
+Creating a Loop Phrase
+Recording on a Single Track
+Here’s how to record and overdub on track 1.
+Getting ready to record
+1 . Connect your microphones and instruments.
+2 . Adjusts the input/output level (p. 8).
+3 . Use the [OUTPUT LEVEL] knob to adjust the overall 
+volume of the RC-505mkll.
+4 . On the play screen, turn the [1] (MEMORY) knob to 
+select a memory.
+Lit Phrase exists
+Unlit No phrase
+5 . Use the track slider to adjust the volume for the 
+playback track.
+Recording
+1 . Press the [J/t] button to start recording.
+The [J/t] button lights red.
+2 . Sing/speak into your mic or play your 
+instrument to input audio.
+%
+Playback
+1 . Press the [J/t] button.
+The [J/t] button lights green.
+The recorded phrase plays as a loop.
+%
+Overdubbing
+1 . Press the [J/t] button to start overdubbing.
+The [J/t] button lights yellow.
+2 . Record by overdubbing the audio (your 
+performance) onto the phrase that’s playing 
+back in a loop.
+%
+Playback
+%$ Repeat as many times 
+as necessary.
+Overdubbing
+:
+Stopping
+1 . Press the [9] button.
+The [J/t] button goes dark.
+If you want to keep the recorded phrase, save it 
+in a memory (p. 12).
+Undo/Redo
+1 . Press the [UNDO/REDO] button to make it light.
+[J/t] button Explanation
+Lit green Undo available
+Lit red Redo available
+Unlit Undo/redo not available
+2 . Press the [J/t] button of the track you want to undo/
+redo.
+3 . Press the [UNDO/REDO] button once more to return to 
+the previous state.
+
+=== PAGE 10 ===
+10
+Creating a Loop Phrase
+Recording on Multiple Tracks
+You can use multiple tracks to create a single loop phrase.
+This shows you how to record the tracks in ascending order (track 1 0 track 2 0 ... track 5).
+Track 1 Recording
+1 . Press the [J/t] button to start recording.
+The [J/t] button lights red.
+2 . Sing/speak into your mic or play your 
+instrument to input audio.
+%
+Track 1 Playback
+1 . Press the [J/t] button.
+The [J/t] button lights green.
+The recorded phrase plays as a loop.
+%$ Repeat as many times as 
+necessary.
+Track 1 Overdubbing
+1 . Press the [J/t] button to start overdubbing.
+The [J/t] button lights yellow.
+2 . Record by overdubbing the audio (your 
+performance) onto the phrase that’s playing 
+back in a loop.
+:
+Track 1 Playback
+Press the [J/t] button.
+%
+Track 2 Recording
+1 . Press the [J/t] button to start recording.
+The [J/t] button lights red.
+2 . Sing/speak into your mic or play your 
+instrument to input audio.
+%
+Track 2 Playback
+1 . Press the [J/t] button.
+The [J/t] button lights green.
+The recorded phrase plays as a loop.
+%
+Track 2 Overdubbing
+%$ Repeat as many times as 
+necessary.
+Track 2 Playback
+Press the [J/t] button.
+%
+Tracks 3–5
+As with track 2, record/playback/overdub tracks 30 4 0 5 in 
+ascending order.
+:
+ Stopping
+1 . Press the [ALL START/STOP] button.
+The [ALL START/STOP] button and the [J/t] 
+buttons for each track go dark.
+If you want to keep the recorded phrase, save it in 
+a memory (p. 12).
+Undo/Redo
+1 . Press the [UNDO/REDO] button to make it light.
+[J/t] button Explanation
+Lit green Undo available
+Lit red Redo available
+Unlit Undo/redo not available
+2 . Press the [J/t] button of the track you want to undo/
+redo.
+3 . Press the [UNDO/REDO] button once more to return to 
+the previous state.
+=== PAGE 11 ===
+11
+Creating a Loop Phrase
+Recording with Input FX
+You can apply input FX to the input sound as you record.
+1 . Press the [FX] button for each track to turn its effects 
+(input FX/track FX) on/off.
+Lit On
+Unlit Off
+2 . Press the INPUT FX [A]–[D] buttons to select the input 
+FX type.
+Bank - Type
+Switching between FX banks
+1 . Hold down the [EDIT] button until one of the [A]–[D] buttons 
+lights up blue.
+The [A]–[D] buttons now switch between FX banks.
+2 . Press the [A]–[D] buttons to switch the FX bank.
+3 . When you’ve set the FX bank, press the [EDIT] button.
+3 . Turn the [INPUT FX] knob to control the effect.
+The parameters available for control depend on the type of 
+effect selected.
+4 . To apply track FX to a tracks that’s already recorded, 
+use the same operation as with the input FX.
+Bank - Type
+Track FX
+ 5 You can save the effects you configured as settings in 
+memory.
+ & “Saving a Memory (WRITE)” (p. 12)
+ 5 You can switch between effect types that are assigned to the 
+[A]–[D] buttons, and change how the effects sound.
+ & “Editing the Input FX/Track FX Settings” (p. 16)
+Record While Listening to the Rhythm Sound
+In addition to the track, the RC-505mkll can also play a “Rhythm. ”
+You can record while sounding a rhythm at the tempo you specify.
+Sounding a Rhythm
+1 . Press the RHYTHM [START/STOP] button.
+The rhythm switches on (lit)/off (unlit)/ready to play rhythm 
+(blink) each time you press the button.
+Setting the Tempo of Rhythm
+1 . Press the [TAP TEMPO] button.
+The tempo setting screen appears.
+2 . While the tempo setting screen is shown, turn the [4] 
+knob to set the tempo.
+Value 40.0–300.0
+MEMO
+Press and then turn the [4] knob to set a value in decimal 
+points.
+Tap tempo
+You can set the tempo by pressing a button at the desired interval.
+1 . Press the [TAP TEMPO] button several times in time 
+with the desired tempo.
+MEMO
+If you long-press the [TAP TEMPO] button until it begins 
+blinking red, the tempo returns to the default value.
+ 5 The specified tempo can be saved as a setting in memory.
+ & “Saving a Memory (WRITE)” (p. 12)
+ 5 You can specify the volume and type (variation) of rhythm, 
+and how the rhythm plays.
+ & “Editing the Rhythm Settings” (p. 15)
+
+=== PAGE 12 ===
+12
+Saving a Memory
+Saving a Memory (WRITE)
+If you select a different memory or turn off the power after 
+recording or editing the settings, the recorded content or edited 
+settings are lost. If you want to keep the data, you must save it.
+1 . Press the [EXIT] button and [ENTER] button 
+simultaneously.
+The WRITE screen appears.
+2 . Press the [1] or [2] (WRITE) knob.
+3 . Turn the [1]–[4] knobs to select the memory to which 
+you want to save.
+ 5 This procedure is not required if the memory number is 
+acceptable as is.
+ 5 If you decide to cancel, press the [EXIT] button.
+4 . Press the [ENTER] button.
+The memory is saved.
+* Make sure not turn to off the power while the “EXECUTING... ” 
+message is shown.
+MEMO
+You can assign a name to the memory. For details, refer to 
+“Parameter Guide” (PDF).
+Erasing Data from a Memory (CLEAR)
+You can erase the data that is saved in a memory, clearing that 
+memory to an empty state.
+1 . Press the [EXIT] button and [ENTER] button 
+simultaneously.
+The WRITE screen appears.
+2 . Press the [3] or [4] (CLEAR) knob.
+3 . Turn the [1]–[4] knobs to select the memory you want 
+to clear.
+ 5 This procedure is not required if the memory number is 
+acceptable as is.
+ 5 If you decide to cancel, press the [EXIT] button.
+4 . Press the [ENTER] button.
+The memory will be cleared.
+* Make sure not turn to off the power while the “EXECUTING... ” 
+message is shown.
+=== PAGE 13 ===
+13
+Editing a Memory
+1 . Press the [LOOP] button.
+The LOOP screen appears.
+2 . Use the [K] [J] buttons to switch to the page 
+containing the item you want to edit.
+3 . Press the [1]–[4] knobs to select the parameter to edit.
+4 . Use the [K] [J] buttons to switch to the page 
+containing the parameter you want to edit.
+5 . Turn the [1]–[4] knobs to edit the values.
+6 . Press the [EXIT] button a number of times to return to 
+the play screen.
+7 . If you want to save the edited settings, execute the 
+Write operation (p. 12).
+Item Explanation
+TRACK
+Configures tracks 1–5.
+Turn the [1] knob to select the track to edit.
+REC Configures the settings related to recording/
+overdubbing.
+PLAY Specifies how loop phrases play back.
+INPUT FX Configures the input FX. 
+TRACK FX Configures the track FX. 
+RHYTHM Configures the rhythm settings.
+NAME
+Specifies the memory name.
+* Maximum of 12 characters
+Editing the Settings of a Memory
+Here’s how to edit the settings of each memory.
+For details on the parameters, refer to “Parameter Guide” (PDF).
+
+=== PAGE 14 ===
+14
+Editing a Memory
+Editing the Track Settings
+Here’s how to configure the volume, playback method and other settings for tracks 1–5.
+For details on the parameters, refer to “Parameter Guide” (PDF).
+* You can also configure the track parameters from the edit screen of a memory.
+1 . Press a [TRACK] button (tracks 1–5) to select a track to 
+edit.
+The TRACK screen appears.
+MEMO
+You can also press the [LOOP] button to switch tracks.
+2 . Use the [K] [J] buttons to switch to the page 
+containing the parameter you want to edit.
+3 . Turn the [1]–[4] knobs to edit the values.
+4 . Press the [EXIT] button a number of times to return to 
+the play screen.
+5 . If you want to save the edited settings, execute the 
+Write operation (p. 12).
+Item Explanation
+REVERSE Specifies whether to play back normally or in 
+reverse.
+1SHOT Specifies whether to play back as one-shot or as 
+the usual loop playback.
+PAN Specifies the stereo position (pan) of the track.
+PLAY LEVEL Adjusts the playback level of the track.
+START MODE Specifies whether playback starts with a fade-in 
+or immediately when the track plays.
+STOP MODE Specifies how the track stops.
+DUB MODE Specifies the overdubbing method.
+FX
+Turns the effects (input FX/track FX) on/off.
+* You can also press the [FX] button of the 
+currently selected track to switch the effect 
+on/off.
+PLAY MODE Specify how loop phrases play back.
+MEASURE Specifies the number of measures in the track.
+LOOP SYNC
+Specifies whether the phrases played back on 
+tracks 1–5 are lined up at the beginning and 
+then looped, or whether each phrase is looped 
+separately according to their length.
+TEMPO SYNC
+SW
+Sets whether each track plays at its 
+original tempo (the tempo during 
+recording—use the OFF setting) or 
+at the tempo that is specified in the 
+memory (use the ON setting).
+MODE
+When TEMPO SYNC SW is “ON, ” this 
+sets whether to change the pitch 
+according to the tempo, or to instead 
+make the pitch stay the same.
+SPEED Sets the playback speed for each 
+track.
+BOUNCE IN
+Sets whether to allow the playback sound from 
+a different track as well to be recorded during 
+recording or overdubbing.
+INPUT
+Sets whether the sound from each input jack/
+connector and the rhythm should be inputted 
+to the track (ON) or not (OFF).
+Turn the [1] knob to select the input jack/
+connector or RHYTHM, and press the [1] knob 
+to switch between ON/OFF.
+* When stereo link is “ON, ” the MIC 1, 2 and L/R 
+channels are shown as a single connector.
+=== PAGE 15 ===
+15
+Editing a Memory
+1 . Press the RHYTHM [EDIT] button.
+The RHYTHM screen appears.
+2 . Use the [K] [J] buttons to switch between the 
+parameters that you want to edit.
+3 . Turn the [1]–[4] knobs to edit the values.
+4 . Press the [EXIT] button a number of times to return to 
+the play screen.
+5 . If you want to save the edited settings, execute the 
+Write operation (p. 12).
+Item Explanation
+GENRE Selects the genre of the rhythm pattern.
+PATTERN Selects the rhythm pattern.
+VARIATION Selects the rhythm pattern variation.
+KIT Selects the drum kit used to play the rhythm.
+BEAT Specifies the time signature of the rhythm.
+START TRIG Specifies how rhythm playback starts.
+STOP TRIG Specifies how rhythm playback stops.
+INTRO REC Sets whether to add an intro or not when 
+recording.
+INTRO PLAY Specifies whether the rhythm plays with or 
+without an intro.
+ENDING Specifies whether the rhythm plays with or 
+without an ending.
+FILL Specifies whether the rhythm plays with a fill-in 
+or without a fill-in.
+VARI.
+CHANGE
+Specifies the timing at which the rhythm pattern’s 
+variation is changed.
+Changing How the Rhythm Starts and Stops
+As appropriate for your recording method or the phrase that 
+you’re recording, you can change the way in which the rhythm 
+starts and stops.
+1 . From the RHYTHM screen, switch to the page on which 
+“START TRIG” is shown.
+2 . Turn the [2] (START TRIG) knob to set the rhythm 
+playback method.
+3 . Turn the [3] (STOP TRIG) knob to set the rhythm stop 
+method.
+4 . Press the [EXIT] button a number of times to return to 
+the play screen.
+5 . If you want to save the edited settings, execute the 
+Write operation (p. 12).
+Parameter Explanation
+START TRIG
+LOOP START The rhythm plays when loop recording or 
+playback starts.
+REC END
+The rhythm plays when loop recording ends 
+and switches to playback.
+This is useful if you want to perform without 
+specifying a tempo, start recording and then 
+play the loop in time with the rhythm when 
+playback starts.
+BEFORE LOOP
+The rhythm plays before loop recording or 
+playback.
+The rhythm starts playing when you press the 
+switch once, and recording/playback starts 
+in time with the rhythm when you press the 
+switch once again.
+STOP TRIG
+OFF
+The rhythm always continues playing.
+If you are performing in synchronization with an 
+external MIDI device, you can keep the rhythm 
+playing continuously to allow synchronized 
+playback.
+LOOP STOP The rhythm stops when the loop stops.
+REC END
+The rhythm stops when loop recording ends.
+This is useful when you want to use the rhythm 
+as a guide during recording.
+Editing the Rhythm Settings
+For details on the parameters, refer to “Parameter Guide” (PDF).
+* Rhythm parameters can also be edited from the edit screens for a memory.
+
+=== PAGE 16 ===
+16
+Editing a Memory
+Editing the Input FX/Track FX Settings
+For details on the parameters, refer to “Parameter Guide” (PDF).
+1 . Select the memory for which you want to edit the 
+input FX/track FX settings.
+2 . Press the INPUT FX [EDIT] button/TRACK FX [EDIT] 
+button.
+The INPUT FX screen/TRACK FX screen appears.
+3 . Select the FX bank of the effect you wish to edit.
+1 . Hold down the [EDIT] button until one of the [A]–[D] buttons 
+lights up blue.
+The [A]–[D] buttons now switch between FX banks.
+2 . Press the [A]–[D] buttons to switch the FX bank.
+3 . When you’ve set the FX bank, press the [EDIT] button.
+4 . Press the [A]–[D] buttons while holding down the 
+[EDIT] button to select the effect to edit.
+5 . Use the [K] [J] buttons to switch to the page 
+containing the parameter you want to edit.
+* The available parameters depend on the type of effect you 
+select.
+6 . Turn the [1]–[4] knobs to edit the values.
+7 . Press the [EXIT] button a number of times to return to 
+the play screen.
+8 . If you want to save the edited settings, execute the 
+Write operation (p. 12).
+=== PAGE 17 ===
+17
+System Settings (MENU)
+For details on the parameters, refer to “Parameter Guide” (PDF).
+1 . Press the [MENU] button.
+The MENU screen appears.
+2 . Use the [K] [J] buttons to switch to the page 
+containing the item you want to edit.
+3 . Press the [1]–[4] knobs to select the item that you want 
+to edit.
+4 . If you see another screen with items to select, repeat 
+steps 2 and 3.
+5 . Use the [K] [J] buttons to switch to the page 
+containing the parameter you want to edit.
+6 . Turn the [1]–[4] knobs to change the value.
+7 . Press the [EXIT] button a number of times to return to 
+the play screen.
+Item Parameter/Explanation
+INPUT
+SETUP
+Settings related to the input and output jacks, 
+such as phantom power on/off.
+EQ
+Settings for applying an equalizer effect to the 
+input sound for each connector/jack.
+DYNAMICS
+Settings for applying a compressor or noise 
+suppressor to the input sound.
+OUTPUT
+SETUP
+Settings related to the output jacks, such as stereo 
+link.
+ROUTING
+Settings for assigning the playback sound from 
+tracks 1–5 and the input/rhythm sound from each 
+input jack/connector to the output jacks.
+EQ
+Settings for applying an equalizer effect to the 
+output sound, configured for each output jack.
+MASTER FX
+Settings for the compressor and reverb effects 
+that are applied to the output sound.
+MIXER Sets the input/output levels for each jack and 
+connector (p. 8).
+CTL FUNC
+PANEL PLAY , PANEL UNDO
+Settings for the [TRACK] button/[FX] buttons 
+(tracks 1–5), for the [TRACK] button during undo/
+redo, and for the [FX] button functions.
+CTL/EXP
+Settings for assigning functions to a footswitch or 
+expression pedal connected to the CTL 1, 2/EXP 1 
+jack or the CTL 3, 4/EXP 2 jack.
+PREFERENCE
+Selects whether to switch the PANEL PLAY, PANEL 
+UNDO, and CTL/EXP settings to either the settings 
+for each memory or to the system settings.
+* When switching to the settings for each 
+memory, use the write operation to save the 
+settings to memory.
+ASSIGN
+ASSIGN 1–16
+Settings for the ASSIGN section.
+By using the assign settings, you can control other 
+parameters at the same time as the specified 
+functions that are executed when you operate this 
+unit’s buttons/knobs, or a footswitch/expression 
+pedal connected to the CTL 1, 2/EXP 1 jack or CTL 
+3, 4/EXP 2 jack.
+You can also configure this unit to be controlled 
+from an external MIDI device.
+There are 16 different assign settings.
+
+=== PAGE 18 ===
+18
+System Settings (MENU)
+Item Parameter/Explanation
+USB
+STORAGE
+Settings for how USB should operate.
+AUDIO MODE
+Settings for the USB driver when USB audio is 
+used.
+AUDIO ROUTING
+Settings for where the USB audio is routed.
+INPUT LEVEL
+Configures the USB audio input level.
+OUTPUT LEVEL
+Configures the USB audio output level.
+MIDI
+RX CH CTL
+Specifies the receive channel for messages 
+(control changes) that switch memories or control 
+the RC-505mkll.
+RX CH RHYTHM
+Specifies the receive channel for note messages 
+that play the drum sounds.
+RX CH VOICE
+Specifies the receive channel for note messages 
+used to create harmonies or vocoder effects.
+TX CH
+Specifies the transmit channel for MIDI messages.
+SYNC CLOCK
+Specifies the input to which the tempo clock is 
+synchronized.
+SYNC OUT
+Sets whether to output MIDI clock or not.
+SYNC START
+Specifies what starts in synchronization when a 
+MIDI start message is received.
+PC OUT
+Sets whether to transmit program change 
+messages or not.
+THRU MIDI IN
+Specifies the connector used to output the MIDI 
+messages received through the MIDI IN connector.
+THRU USB IN
+Specifies the connector used to output the MIDI 
+messages that are received through the USB port.
+SETUP
+CONTRAST
+Adjusts the display contrast.
+DISPLAY MODE
+Sets which play screen is shown on startup.
+INDICATOR
+Settings for what the loop indicator should 
+display.
+FX KNOB MODE
+Sets how the [INPUT FX] knob/[TRACK FX] knob 
+operate.
+AUTO OFF
+Turns the AUTO OFF function on/off.
+Item Parameter/Explanation
+SETUP
+MEMORY EXT MIN, MAX
+Specifies the extent (lower limit and upper limit) 
+to which memories can be switched.
+KNOB FUNC 1–4
+Specifies the functions that are assigned to the 
+[1]–[4] knobs.
+FACTORY 
+RESET Restores the unit to its factory settings (p. 24).
+=== PAGE 19 ===
+19
+Connecting to a Computer via USB
+1 . Press the [MENU] button.
+The MENU screen appears.
+2 . Use the [K] [J] buttons to switch to the page on which 
+“USB” is shown, and press the [2] (USB) knob.
+3 . Turn the [1] (STORAGE) knob to set “PREPARING... ” .
+4 . Use a USB cable to connect the RC-505mkll’s USB port 
+to your computer’s USB port.
+When a connection with the computer is established, the 
+message “CONNECTING... ” appears.
+* USB connection is not possible if the unit is not stopped, or if 
+there is a phrase that has not been saved.
+5 . Open the BOSS RC-505mkll drive.
+Windows
+Within My Computer (or Computer), open “BOSS RC-505mkll” 
+(or Removable Disk).
+macOS
+On the desktop, open the “BOSS RC-505mkll” icon.
+6 . Back-up or recover the data.
+Backup
+Copy the entire “ROLAND” folder from the BOSS RC-505mkll 
+drive to your computer.
+Recover
+* When you execute this operation, the memory currently saved 
+in the RC-505mkll disappears. Back up in advance.
+In the BOSS RC-505mkll drive, delete the “ROLAND” folder, 
+and then copy the backed-up “ROLAND” folder from the 
+computer into the BOSS RC-505mkll drive.
+NOTE
+Do not delete the folders in the BOSS RC-505mkll drive other 
+than when executing the recovery operation.
+7 . Eject the BOSS RC-505mkll drive.
+Windows
+In the lower right of your screen, click the [
+ ] and then the 
+[
+ ] icon, and then click “Eject BOSS RC-505mkll. ”
+macOS
+Drag the “BOSS RC-505mkll” icon to the trash (“Eject” icon).
+Here’s what you can do when you connect the RC-505mkll via USB 
+to your computer.
+ 5 Back up the RC-505mkll’s data to your computer.
+ 5 Restore (recover) backup data from your computer to the 
+RC-505mkll.
+ 5 Use BOSS TONE STUDIO to import or back up loop phrases 
+(audio files).
+ 5 Use the dedicated rhythm converter if you want to import and 
+use your original rhythm patterns on the RC-505mkll.
+Using BOSS TONE STUDIO and the rhythm converter
+Access the website shown below to download BOSS TONE 
+STUDIO or the rhythm converter.
+ & https://www .boss .info/support/
+Connecting to your computer
+Use a commercially available USB cable to connect the 
+RC-505mkll’s USB port to the USB port on your computer.
+NOTE
+ 5 Use a USB cable that supports USB 2.0 Hi-Speed.
+ 5 This might not work correctly for some models of computer. 
+Refer to the BOSS website for details on the operating systems 
+that are supported.
+Backing Up or Recovering Data
+
+=== PAGE 20 ===
+20
+Controlling Devices via MIDI
+Connect external MIDI devices to this unit according to your 
+needs.
+Connector Explanation
+MIDI IN Receives messages from another MIDI device.
+MIDI OUT Transmits messages from this device.
+Connection
+MIDI Settings
+Use of MIDI requires that the MIDI channels be matched with those of the connected device. Data cannot be transmitted to, nor received 
+from another MIDI device unless the MIDI channels are set properly.
+For details on each of the MIDI setting parameters, refer to “Parameter Guide” (PDF).
+Controlling an External MIDI Device from the RC-505mkll
+Overview Explanation
+Transmitting tempo data and data for starting and stopping playback
+The RC-505mkll’s performance 
+tempo data is transmitted to 
+external MIDI devices as MIDI 
+Clock.
+Setting an external MIDI device to the same tempo as the RC-505mkll
+MIDI Clock messages are output from the RC-505mkll at all times.
+Set the external MIDI device beforehand so it is ready to receive MIDI Clock and MIDI Start and 
+Stop messages. For details, refer to the owner’s manual of your device.
+Playback start and stop operations 
+with the RC-505mkll’s switches can 
+be transmitted as MIDI Start and 
+Stop messages.
+Transmitting Start/Stop
+A MIDI Start message is transmitted at the moment that recording or playback of the track begins, 
+when tracks had been stopped. This message is also transmitted when an All Start is carried out.
+A MIDI Stop message is transmitted when tracks have stopped. This is also transmitted when All 
+Stop is carried out.
+* If you want MIDI synchronized performance to continue even after the track stops, set the 
+RHYTHM parameter STOP TRIG (p. 15) to “OFF. ”
+* Tracks whose 1SHOT setting (p. 14) is “ON” and tracks whose LOOP SYNC setting (p. 14) is 
+“OFF” will not transmit Start/Stop data.
+Transmitting Program Change messages
+When a memory is selected 
+with the RC-505mkll, a Program 
+Change message corresponding 
+to the selected memory number is 
+transmitted simultaneously.
+Transmitting Program Change messages
+When memories are switched on the RC-505mkll, a MIDI Program Change message is transmitted 
+to the connected external MIDI device. You can transmit Program Change messages numbered 1 
+through 99, corresponding to the 99 individual memories 01–99.
+* Set “PC OUT” (p. 18) to ON beforehand.
+* Program Change messages 100–128 cannot be transmitted.
+* Bank Select MIDI messages (Control Change #0, #32) cannot be transmitted.
+Transmitting Control Change messages
+Operating information for the 
+RC-505mkll’s switches, buttons, 
+knobs, and an external expression 
+pedal or footswitch is transmitted 
+as Control Change messages.
+Transmitting Control Change messages
+If you select a Control Change as the “ASSIGN” (p. 17) target, you can transmit MIDI control 
+change messages by operating the buttons and knobs on the RC-505mkll, or by using an external 
+footswitch or expression pedal (connected to the CTL 1, 2/EXP 1 jack or the CTL 3, 4/EXP 2 jack).
+=== PAGE 21 ===
+21
+Controlling Devices via MIDI
+Controlling the RC-505mkll from an External MIDI Device
+Overview Explanation
+Receiving tempo data and data for starting and stopping playback
+The RC-505mkll will synchronize to 
+the tempo of MIDI Clock data from 
+an external MIDI device.
+Setting the RC-505mkll to the same tempo as an external MIDI device
+Make settings on your external MIDI device so that it will transmit MIDI Clock and MIDI Start/Stop 
+data. For details, refer to the owner’s manual of your device.
+Set the RC-505mkll’s SYNC CLOCK (p. 18) to “AUTO. ”
+* You can’t switch the tempo during recording.
+Start/stop data will be received 
+from an external MIDI device to 
+play/stop the RC-505mkll.
+Receiving MIDI Start
+When MIDI Start (FA) is received, all tracks will play (All Start).
+Switching memories
+The RC-505mkll’s memories switch 
+simultaneously upon receipt of 
+corresponding Program Change 
+messages from external MIDI 
+devices.
+Switching memories
+You can switch the RC-505mkll’s memories with Program Change messages from external MIDI 
+devices.
+You can receive Program Change messages numbered 1 through 99, corresponding to the 99 
+individual memories 01–99.
+* Program Change messages 100–128 cannot be received.
+* Even if received, Bank Select MIDI messages (Control Change #0, #32) are disregarded. 
+Receiving Control Change messages
+The RC-505mkll can be controlled 
+using Control Change messages 
+from external MIDI devices.
+Receiving Control Change messages
+You can use Control Change messages from an external MIDI device to control functions that 
+would be difficult to control using the RC-505mkll’s own controllers.
+In the “ASSIGN” (p. 17) setting, set SOURCE to “MIDI CC#1–#31, CC#64–#95, ” and select the 
+parameter that you want to control in TARGET.
+Connecting Two RC-505mkll Units
+Two RC-505mkll units can be synchronized after connecting them together using a MIDI cable.
+MIDI OUT MIDI IN
+Transmitting unit Receiving unit
+ 5 Begin recording on the tracks of the transmitting RC-505mkll.
+ 5 When you press the [ALL START/STOP] button on the transmitting RC-505mkll, the receiving RC-505mkll also plays back.
+* To make playback stop, select “SYNC ST/STP” in the SOURCE “Assign” (p. 17) setting, and “ALL ST/STP” in the TARGET setting.
+* The receiving RC-505mkll performs an “all start” when tracks start playing back on the transmitting RC-505mkll.
+ 5 Tracks for which TEMPO SYNC (p. 14) is ON play at the tempo set in the memory of the transmitting unit.
+ 5 Tracks for which LOOP SYNC (p. 14) is ON loop in time with the first-recorded phrase on the transmitting RC-505mkll.
+
+=== PAGE 22 ===
+22
+Appendix
+Troubleshooting
+Problem Items to Check Action
+Problems with sound
+No sound/insufficient 
+volume
+Is this unit properly connected to other devices? Check the connections to other devices (p. 7).
+Is the power to the connected amp or mixer not 
+turned on, or is the volume turned down? Check the settings for connected devices.
+Is there a short in one of the connection cables? Try replacing the connection cable.
+Might the level sliders for each track or the 
+[OUTPUT LEVEL] knob have been lowered? Adjust sliders/knob to their suitable positions.
+Is the input/output level set correctly? Adjust the input/output levels on the MIXER screen for the input/output 
+jacks and connectors respectively.
+Are the levels for tracks 1–5 set correctly?
+Check the “PLAY LEVEL ” setting for each track (p. 14).
+Check whether an external expression pedal or other accessory has 
+been set to adjust the levels (p. 17).
+Are the audio output destinations for tracks 1–5 
+set correctly? Check the “ROUTING” settings in OUTPUT on the MENU screen (p. 17).
+Has anything been recorded to the tracks?
+Check the [TRACK] button for each track to see whether the track has 
+been recorded. If a track’s button is unlit, nothing has been recorded on 
+that track.
+No rhythm sound
+Is the rhythm volume set correctly? Check the “RHYTHM OUT” setting on the MIXER screen.
+Is the output destination for the rhythm sound 
+set correctly?
+Check the RHYTHM settings in “ROUTING, ” found in OUTPUT on the 
+MENU screen (p. 17).
+Sound is missing from 
+the beginning and end 
+of a recorded track
+To prevent noise, a fade-in and a fade-out are applied at the beginning and end of a recording. In some cases, it may sound 
+as if some of the sound has been cut out.
+Unable to hear 
+sounds from devices 
+connected to the MIC 1, 
+2 connectors/INST 1, 2 
+jacks
+Is the audio output destination set correctly? Check the MIC 1/MIC 2/INST 1/INST 2 settings in “ROUTING, ” found in 
+OUTPUT on the MENU screen (p. 17).
+Problems with operation
+Cannot switch between 
+memories
+Is something other than the play screen 
+appearing in the display?
+You cannot switch memories while any screen other than the play 
+screen is displayed. Press the [EXIT] button to return to the play screen.
+Recording/overdubbing 
+stops before finishing
+Is there enough memory remaining? If there isn’t enough memory, clear any unneeded memories (p. 12) 
+before recording or overdubbing.
+Is LOOP SYNC (p. 14) set to “ON” for the track?
+When recording with LOOP SYNC set to “ON, ” once the end of 
+the longest track is reached, this unit automatically switches to 
+overdubbing.
+Playback tempo not 
+changing
+Is recording or overdubbing in progress?
+You cannot change the tempo of the memory while recording or 
+overdubbing. Change the tempo while the tracks are stopped or 
+playing back.
+Is TEMPO SYNC (p. 14) set to “ON” for the track?
+When TEMPO SYNC is not set to “ON” for a track, the playback speed 
+does not change even if the tempo for the memory changes. To match 
+the playback speed to the tempo of the memory, set the track’s TEMPO 
+SYNC setting to “ON. ”
+Playback tempo not 
+changing
+Is the unit synchronized via MIDI?
+If MIDI clocks are being received via the MIDI IN connector or the USB 
+port, the RC-505mkll synchronizes its tempo to the MIDI clocks.
+If you don’t want to synchronize with an external device, set SYNC to 
+“INTERNAL. ”
+MIDI messages not 
+being transmitted/
+received
+Is the external MIDI device properly connected? Check the connections to the external MIDI device.
+Could there be a short in the MIDI cable? Try replacing the MIDI cable.
+Are the MIDI channels matched to those of the 
+external MIDI device? Confirm that both devices are set to the same MIDI channels.
+If transmitting from the RC-505mkll, have you 
+made the necessary transmission settings?
+Check the TX CH (transmit channel) setting and the PC OUT (program 
+change message transmit) on/off setting.
+Problems with USB
+Unable to communicate 
+with computer
+Is the USB cable properly connected? Check the connection (p. 19).
+(If exchanging files via USB with your computer) 
+Could “STORAGE” be OFF?
+Using the procedure shown in “Backing Up or Recovering Data” (p. 
+19), set STORAGE to “PREPARING... ” .
+Is a memory now being edited?
+USB connection is not possible if there is an unsaved memory.
+Save the memory (p. 12), and then try the USB connection again.
+=== PAGE 23 ===
+23
+Appendix
+Error Message List
+Message Meaning Action
+LOOPER
+DATA DAMAGED Data may have been damaged. In the factory reset function (p. 24), choose “SYS+MEM” to 
+return the RC-505mkll to its factory settings.
+DATA READ ERR A problem has occurred with the content of the 
+RC-505mkll’s memory.
+Consult your dealer, a Roland service center, or an official Roland 
+dealer.
+DATA WRITE ERR
+DATA TOO LONG Playback is not possible because the recording time or 
+audio file is too long.
+The recording time or audio file length must not exceed 1.5 
+hours.
+DATA TOO SHORT Playback is not possible because the recording time or 
+audio file is too short.
+The recording time or audio file length must be at least 0.1 
+seconds.
+EVENT FULL Further overdubbing is not possible. Save the memory (p. 12).
+MEMORY FULL
+The recorded time of one track exceeded 1.5 hours 
+(approximately).
+No further recording is possible on the current track.
+Save the memory (p. 12). If you want to continue recording, 
+select a different memory.
+The total recording time of all memories exceeded 13 
+hours (approximately).
+No further recording is possible.
+Clear unneeded memories (p. 12).
+NOT EMPTY You are attempting to overwrite-save onto a memory in 
+which a phrase is already recorded.
+Either clear the currently selected memory (p. 12), or select an 
+empty memory.
+TEMPO TOO FAST
+Since the track is being played at a much faster tempo 
+than when it was recorded, it might not play back 
+correctly.
+Adjust the tempo.
+TEMPO TOO SLOW
+Since the track is being played at a much slower tempo 
+than when it was recorded, it might not play back 
+correctly.
+TOO BUSY
+TOO BUSY OMSG
+The RC-505mkll could not process the data completely.
+For “TOO BUSY OMSG”:
+Since you attempted to apply the loop FX to a phrase 
+that was set to a significantly slower tempo than when 
+it was recorded, the data could not be processed quickly 
+enough.
+Lower the performance tempo.
+In the case of “TOO BUSY OMSG, ” return to the tempo that was 
+used during recording.
+Save the current content to a memory.
+If this appears frequently, back up the data to your computer, 
+then execute factory reset “SYS+MEM, ” and then recover the data 
+(p. 24, p. 19).
+UNDEFINED ERR An error of unknown cause has occurred during 
+recording, playback, or overdubbing.
+Consult your dealer, a Roland service center, or an official Roland 
+dealer.
+MIDI
+BUFFER FULL An excessive volume of messages were received and 
+could not be processed properly.
+Reduce the number or size of MIDI messages transmitted to the 
+RC-505mkll.
+OFFLINE There is a problem with the MIDI cable connection. Check to make sure the cable has not been disconnected and 
+that there is no short in the cable.
+Others
+MEMORY FULL This unit’s memory is insufficient. If this message 
+appears, recording or overdubbing might end mid-way.
+Clear unneeded memories (p. 12), and then try recording 
+again.
+STOP LOOPER The operation is not possible during recording, 
+playback, or overdubbing. Stop before performing the operation.
+STOP ALL The operation is not possible during recording, 
+playback, overdubbing, or rhythm playback. Stop all of these before performing the operation.
+STOP ALL&SAVE
+The operation is not possible during recording, 
+playback, overdubbing, or rhythm playback when there 
+is also unsaved data.
+Stop all of these, and then save the memory (p. 12).
+UNSUPPORTED FILE This audio file is unplayable.
+Check the format of the audio file.
+To import an audio file into the RC-505mkll, use BOSS TONE 
+STUDIO.
+
+=== PAGE 24 ===
+24
+Appendix
+Restoring the Factory Default Settings 
+(Factory Reset)
+You can restore all of the settings to their factory-set values, and 
+you can also specify certain items to be reset.
+* When you execute “Factory Reset, ” the settings you made are 
+lost. Back up any necessary data to your computer.
+1 . Press the [MENU] button.
+The MENU screen appears.
+2 . Use the [K] [J] buttons to switch to the page on 
+which “FACTORY RESET” is shown, and press the [4] 
+(FACTORY RESET) knob.
+3 . Turn the [1]–[4] knobs to select the setting that you 
+want to restore.
+Value Explanation
+MEMORY Memory 01–99
+SYSTEM System settings
+MEMORY+SYSTEM Memory 01–99 and system settings
+* If you decide to cancel, press the [EXIT] button.
+4 . Press the [ENTER] button.
+The factory reset is executed.
+* Make sure not turn to off the power while the “EXECUTING... ” 
+message is shown.
+Once the factory reset is complete, you are returned to the Play 
+screen.
+=== PAGE 25 ===
+25
+Appendix
+Main Specifications
+Sampling Frequency 44.1 kHz
+AD/DA Conversion 32 bits
+Processing 32-bit floating point
+Recording/Playback
+Number of Tracks: 5
+Data Format: WAV (44.1 kHz, 32-bit float, stereo)
+Maximum Recording Time: Approx. 1.5 hours (1 track), Approx.13 hours (total of All memories)
+Rhythm Type 200 types or greater
+Rhythm Kit 16 types
+Effect
+INPUT FX:  49 types
+TRACK FX:  53 types
+MASTER FX:  2 types
+Memory 99
+Nominal Input Level MIC 1, 2 INPUT:  -40 dBu
+INST 1, 2 INPUT:  -10 dBu
+Maximum Input Level MIC 1, 2 INPUT:  0 dBu
+INST 1, 2 INPUT:  +7 dBu/+20 dBu (selectable)
+Input Impedance MIC 1, 2 INPUT:  3 kΩ
+INST 1, 2 INPUT:  1 MΩ/25 kΩ (selectable)
+Nominal Output Level MAIN OUTPUT:  -10 dBu
+SUB 1, 2 OUTPUT:  -10 dBu
+Maximum Output Level MAIN OUTPUT:  +7 dBu
+SUB 1, 2 OUTPUT:  +7 dBu
+Output Impedance MAIN OUTPUT:  1kΩ
+SUB 1, 2 OUTPUT:  1 kΩ
+Recommended Load Impedance MAIN OUTPUT:  10 kΩ or greater
+SUB 1, 2 OUTPUT:  10 kΩ or greater
+Display Graphic LCD (128 x 64 dots, backlit LCD)
+Connectors
+MIC 1, 2 INPUT connectors: XLR type (balanced, phantom power: DC 48 V, 10 mA Max)
+INST 1, 2 INPUT jacks, MAIN OUTPUT jacks, SUB 1, 2 OUTPUT jacks: 1/4-inch phone type
+PHONES OUTPUT jack: Stereo 1/4-inch phone type
+CTL1,2/EXP1 jack, CTL3,4/EXP2 jack: 1/4-inch TRS phone type
+USB port: USB B type
+MIDI (IN, OUT) connectors
+DC IN jack
+Power Supply AC adaptor
+Current Draw 1.0 A (with phantom power)
+0.9 A (without phantom power)
+Dimensions 420 (W) x 234 (D) x 67 (H) mm
+16-9/16 (W) x 9-1/4 (D) x 2-11/16 (H) inches
+Weight 1.8 kg
+4 lbs
+Accessories
+AC adaptor
+Owner’s Manual
+Leaflet “USING THE UNIT SAFELY” 
+Options (sold separately)
+Footswitch: FS-5U
+Dual Footswitch: FS-6, FS-7
+Expression Pedal: FV-500H, FV-500L, EV-30, Roland EV-5
+* 0 dBu = 0.775 Vrms
+* This document explains the specifications of the product at the time that the document was issued. For the latest information, refer to 
+the Roland website.
+
+=== PAGE 26 ===

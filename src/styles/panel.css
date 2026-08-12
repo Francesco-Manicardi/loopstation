@@ -1,0 +1,407 @@
+/* Visual replica of the RC-505mkII top panel. */
+
+:root {
+  --body: #232529;
+  --body-dark: #1a1c1f;
+  --body-light: #2e3136;
+  --silk: #c9ccd2;
+  --silk-dim: #8c9096;
+  --led-off: rgba(255, 255, 255, 0.04);
+  --led-red: #ff2b21;
+  --led-green: #22e06a;
+  --led-yellow: #ffc21a;
+  --led-pink: #ff5ba8;
+  --led-blue: #2f8bff;
+  --led-white: #f2f5f7;
+  --led-orange: #ff8a1e;
+}
+
+.stage {
+  position: relative;
+}
+
+.panel {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  margin-left: -620px;
+  margin-top: -345px;
+  transform-origin: center center;
+  border-radius: 16px;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.05), rgba(0, 0, 0, 0.25) 42%, rgba(0, 0, 0, 0.4)),
+    repeating-linear-gradient(0deg, rgba(255, 255, 255, 0.015) 0 1px, transparent 1px 3px),
+    var(--body);
+  box-shadow:
+    0 2px 0 rgba(255, 255, 255, 0.08) inset,
+    0 -3px 0 rgba(0, 0, 0, 0.5) inset,
+    0 30px 70px rgba(0, 0, 0, 0.75);
+}
+
+/* The lower half of the panel (tracks) is a slightly lighter shade, as on the
+   real unit where the track area is a separate moulded surface. */
+.track-area {
+  position: absolute;
+  border-radius: 0 0 16px 16px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.28), rgba(0, 0, 0, 0.12));
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.track-col {
+  position: absolute;
+  border-radius: 10px;
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.022), rgba(0, 0, 0, 0.12));
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.03) inset;
+}
+
+.section {
+  position: absolute;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0.02), rgba(0, 0, 0, 0.1));
+}
+
+.section-title {
+  position: absolute;
+  top: -8px;
+  left: 12px;
+  padding: 0 6px;
+  font-size: 11px;
+  letter-spacing: 0.16em;
+  color: var(--silk);
+  background: var(--body);
+}
+
+.label {
+  position: absolute;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  color: var(--silk-dim);
+  pointer-events: none;
+}
+
+.label-center {
+  text-align: center;
+}
+
+.label-track {
+  font-size: 12px;
+  letter-spacing: 0.18em;
+  color: var(--silk);
+}
+
+/* --- buttons ------------------------------------------------------------ */
+
+.btn {
+  position: absolute;
+  border-radius: 7px;
+  background: linear-gradient(180deg, #3a3d43, #22242899 60%, #1b1d20);
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.14) inset,
+    0 -2px 3px rgba(0, 0, 0, 0.5) inset,
+    0 3px 5px rgba(0, 0, 0, 0.45);
+  color: var(--silk);
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  line-height: 1.25;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  transition: transform 40ms linear;
+}
+
+.btn .cap {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  text-shadow: 0 1px 1px rgba(0, 0, 0, 0.8);
+}
+
+.btn .lamp {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  opacity: var(--lamp-alpha, 0);
+  background: var(--lamp-color, transparent);
+  mix-blend-mode: screen;
+  transition: opacity 60ms linear;
+}
+
+.btn[data-led='off'] {
+  --lamp-color: transparent;
+}
+.btn[data-led='red'] {
+  --lamp-color: radial-gradient(120% 120% at 50% 40%, #ff6a5f, var(--led-red));
+}
+.btn[data-led='green'] {
+  --lamp-color: radial-gradient(120% 120% at 50% 40%, #7dffb1, var(--led-green));
+}
+.btn[data-led='yellow'] {
+  --lamp-color: radial-gradient(120% 120% at 50% 40%, #ffe27a, var(--led-yellow));
+}
+.btn[data-led='pink'] {
+  --lamp-color: radial-gradient(120% 120% at 50% 40%, #ffa8d2, var(--led-pink));
+}
+.btn[data-led='blue'] {
+  --lamp-color: radial-gradient(120% 120% at 50% 40%, #8fc0ff, var(--led-blue));
+}
+.btn[data-led='white'] {
+  --lamp-color: radial-gradient(120% 120% at 50% 40%, #ffffff, var(--led-white));
+}
+.btn[data-led='orange'] {
+  --lamp-color: radial-gradient(120% 120% at 50% 40%, #ffc07a, var(--led-orange));
+}
+
+.btn:not([data-led='off']) {
+  color: #14161a;
+}
+
+.btn.down {
+  transform: translateY(1px);
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.06) inset,
+    0 -1px 2px rgba(0, 0, 0, 0.6) inset,
+    0 1px 2px rgba(0, 0, 0, 0.5);
+}
+
+.btn:focus-visible {
+  outline: 2px solid #4a90ff;
+  outline-offset: 2px;
+}
+
+.btn-small {
+  font-size: 11px;
+  border-radius: 6px;
+}
+
+.btn-arrow {
+  font-size: 13px;
+}
+
+.btn-major {
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  border-radius: 9px;
+}
+
+.btn-fx {
+  font-size: 14px;
+  font-weight: 600;
+  border-radius: 6px;
+}
+
+.btn-fx-track,
+.btn-track {
+  font-size: 11px;
+}
+
+.btn-rhythm {
+  font-size: 11px;
+}
+
+.btn-stop,
+.btn-play {
+  font-size: 17px;
+  border-radius: 8px;
+}
+
+/* --- knobs -------------------------------------------------------------- */
+
+.knob {
+  position: absolute;
+  border-radius: 50%;
+  cursor: ns-resize;
+  touch-action: none;
+}
+
+.knob-body {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background:
+    radial-gradient(60% 60% at 42% 30%, rgba(255, 255, 255, 0.22), rgba(255, 255, 255, 0) 60%),
+    conic-gradient(from 0deg, #3c4046, #23262a 25%, #3c4046 50%, #23262a 75%, #3c4046);
+  box-shadow:
+    0 2px 3px rgba(0, 0, 0, 0.6),
+    0 0 0 3px rgba(0, 0, 0, 0.35),
+    0 0 0 4px rgba(255, 255, 255, 0.05);
+}
+
+.knob-body::after {
+  content: '';
+  position: absolute;
+  inset: 22%;
+  border-radius: 50%;
+  background: radial-gradient(70% 70% at 40% 28%, #4b5057, #1e2124 70%);
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.6) inset;
+}
+
+.knob-pointer {
+  position: absolute;
+  left: 50%;
+  top: 6%;
+  width: 4px;
+  height: 30%;
+  border-radius: 2px;
+  background: #eef1f4;
+  transform: translate(-50%, 0);
+  transform-origin: 50% 160%;
+  box-shadow: 0 0 4px rgba(255, 255, 255, 0.35);
+}
+
+.knob.active .knob-body {
+  box-shadow:
+    0 2px 3px rgba(0, 0, 0, 0.6),
+    0 0 0 3px rgba(0, 0, 0, 0.35),
+    0 0 0 5px rgba(74, 144, 255, 0.45);
+}
+
+.knob-fx .knob-pointer {
+  height: 26%;
+}
+
+.knob-value {
+  cursor: ns-resize;
+}
+
+/* --- display ------------------------------------------------------------ */
+
+.bezel {
+  position: absolute;
+  border-radius: 8px;
+  padding: 14px;
+  background: linear-gradient(180deg, #15171a, #0d0e10);
+  box-shadow:
+    0 0 0 1px rgba(255, 255, 255, 0.07) inset,
+    0 3px 8px rgba(0, 0, 0, 0.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.lcd {
+  width: 100%;
+  height: 100%;
+  image-rendering: pixelated;
+  border-radius: 2px;
+  background: #0a0f0e;
+  box-shadow: 0 0 22px rgba(120, 255, 210, 0.12);
+}
+
+/* --- loop indicators ---------------------------------------------------- */
+
+.ring {
+  position: absolute;
+  border-radius: 50%;
+  background: radial-gradient(circle, rgba(0, 0, 0, 0.35), rgba(0, 0, 0, 0.05));
+  box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.05) inset;
+}
+
+.ring-arc {
+  position: absolute;
+  inset: 4px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.05);
+  -webkit-mask-image: radial-gradient(closest-side, transparent 68%, #000 70%);
+  mask-image: radial-gradient(closest-side, transparent 68%, #000 70%);
+  filter: saturate(1.2);
+}
+
+.ring-core {
+  position: absolute;
+  inset: 30px;
+  border-radius: 50%;
+  background: rgba(0, 0, 0, 0.55);
+  box-shadow: 0 0 14px rgba(0, 0, 0, 0.5) inset;
+}
+
+.ring-label {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 22px;
+  font-weight: 600;
+  color: rgba(10, 12, 14, 0.85);
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.12);
+}
+
+/* --- faders ------------------------------------------------------------- */
+
+.fader {
+  position: absolute;
+  cursor: ns-resize;
+  touch-action: none;
+}
+
+.fader::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: -8px;
+  bottom: -8px;
+  width: 13px;
+  transform: translateX(-50%);
+  border-radius: 7px;
+  background: linear-gradient(90deg, #05060700, #0d0f11 22%, #23272b 50%, #0d0f11 78%, #05060700);
+  box-shadow:
+    0 2px 3px rgba(0, 0, 0, 0.9) inset,
+    0 0 0 1px rgba(255, 255, 255, 0.04);
+}
+
+/* Silkscreened scale next to each slider. */
+.fader::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 4px;
+  bottom: 4px;
+  width: 7px;
+  margin-left: 12px;
+  background-image: repeating-linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.22) 0 1px,
+    transparent 1px calc((100% - 1px) / 10)
+  );
+}
+
+.fader-cap {
+  position: absolute;
+  left: 50%;
+  width: 46px;
+  height: 28px;
+  transform: translate(-50%, 50%);
+  border-radius: 5px;
+  background: linear-gradient(180deg, #5a5f67, #35393f 46%, #23262a 54%, #14161a);
+  box-shadow:
+    0 1px 0 rgba(255, 255, 255, 0.22) inset,
+    0 -1px 0 rgba(0, 0, 0, 0.6) inset,
+    0 4px 7px rgba(0, 0, 0, 0.6);
+}
+
+.fader-cap::before {
+  content: '';
+  position: absolute;
+  inset: 4px 5px;
+  border-radius: 2px;
+  background-image: repeating-linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0.07) 0 1px,
+    rgba(0, 0, 0, 0.22) 1px 3px
+  );
+}
+
+.fader-cap::after {
+  content: '';
+  position: absolute;
+  left: 6px;
+  right: 6px;
+  top: 50%;
+  height: 2px;
+  transform: translateY(-50%);
+  border-radius: 1px;
+  background: rgba(240, 246, 250, 0.62);
+  box-shadow: 0 0 4px rgba(200, 230, 255, 0.25);
+}

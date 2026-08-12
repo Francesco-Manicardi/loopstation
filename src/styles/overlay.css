@@ -1,0 +1,127 @@
+/* Overlays that are not part of the hardware: the power-on gate and the
+   keyboard-shortcut help sheet. */
+
+.overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(6, 7, 9, 0.86);
+  backdrop-filter: blur(3px);
+}
+
+.overlay[hidden] {
+  display: none;
+}
+
+.card {
+  max-width: min(900px, 92vw);
+  max-height: 88vh;
+  overflow: auto;
+  padding: 28px 32px;
+  border-radius: 12px;
+  background: #14161a;
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  box-shadow: 0 24px 60px rgba(0, 0, 0, 0.6);
+}
+
+.card h1 {
+  margin: 0 0 4px;
+  font-size: 22px;
+  letter-spacing: 0.14em;
+}
+
+.card h2 {
+  margin: 22px 0 8px;
+  font-size: 12px;
+  letter-spacing: 0.22em;
+  color: #7f8792;
+  text-transform: uppercase;
+}
+
+.card p {
+  margin: 6px 0;
+  font-size: 13px;
+  line-height: 1.6;
+  color: #a9afb8;
+}
+
+.card .sub {
+  color: #6f7681;
+  font-size: 12px;
+}
+
+.keys {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 4px 26px;
+}
+
+.keys div {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 12.5px;
+  padding: 3px 0;
+  border-bottom: 1px dotted rgba(255, 255, 255, 0.07);
+}
+
+.keys span:first-child {
+  color: #dfe3e8;
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  white-space: nowrap;
+}
+
+.keys span:last-child {
+  color: #9aa1ab;
+  text-align: right;
+}
+
+.actions {
+  margin-top: 24px;
+  display: flex;
+  gap: 12px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.power {
+  padding: 14px 30px;
+  border-radius: 8px;
+  background: linear-gradient(180deg, #2f3339, #1c1e22);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: #eef1f4;
+  font-size: 14px;
+  letter-spacing: 0.18em;
+}
+
+.power:hover {
+  border-color: rgba(120, 255, 210, 0.45);
+  box-shadow: 0 0 22px rgba(34, 224, 106, 0.18);
+}
+
+.ghost {
+  padding: 12px 20px;
+  border-radius: 8px;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: #b9c0c9;
+  font-size: 13px;
+}
+
+.hint {
+  position: fixed;
+  right: 14px;
+  bottom: 12px;
+  z-index: 10;
+  font-size: 11px;
+  letter-spacing: 0.08em;
+  color: #5d646e;
+}
+
+.hint b {
+  color: #9aa1ab;
+  font-weight: 500;
+}
